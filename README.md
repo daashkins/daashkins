@@ -1,5 +1,5 @@
 <h2> Hi, I'm Daria Mylnikova! <img src="https://media.giphy.com/media/24FIhU6feRweuAnN7O/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="330">
 <p><em>Fullstack Javascript developer at <a href="https://www.salt.study/our-hubs/amsterdam">SALT</a></em></p>
 
 [![Linkedin: Daria Mylnikova](https://img.shields.io/badge/-Daria&#160;Mylnikova-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daria-mylnikova/)](https://www.linkedin.com/in/daria-mylnikova/)
@@ -42,6 +42,10 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>
 </div>
+
+### My Stats :
+
+[![Daria's GitHub stats](https://github-readme-stats.vercel.app/api?username=daashkins&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **daashkins/daashkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

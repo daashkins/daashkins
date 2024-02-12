@@ -10,7 +10,7 @@
 
 - :house: Ukrainian living in Amsterdam.
 
-- :heart: Passionate aout JS coding.
+- :heart: Passionate about JS coding.
 
 - :woman_technologist: Fast learner and problem solver.
 

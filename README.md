@@ -1,6 +1,6 @@
 <h2> Hi, I'm Daria Mylnikova! <img src="https://media.giphy.com/media/24FIhU6feRweuAnN7O/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="330">
-<p><em>Frontend developer at <a href="https://steltix.com/">Next Sense</a></em></p>
+<p><em>Frontend developer at <a href="https://www.next-sense.com/">Next Sense</a></em></p>
 
 [![Linkedin: Daria Mylnikova](https://img.shields.io/badge/-Daria&#160;Mylnikova-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daria-mylnikova/)](https://www.linkedin.com/in/daria-mylnikova/)
 [![GitHub daashkins](https://img.shields.io/github/followers/daashkins?label=follow&style=social)](https://github.com/daashkins)
